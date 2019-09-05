@@ -1,0 +1,29 @@
+#main{
+  background-color: #e3d5d4;
+}
+#title{
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  border: 5px solid #ccc;
+  color: darkblue;
+}
+#image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  max-width: 50%;
+}
+#img-caption {
+  text-align: center;
+  font-family: monospace;
+  font-size: 20px;
+}
+#tribute-info{
+  text-align: justify;
+  font-size: 16px;
+  height: 75px;
+  font-family: sans-serif;
+}
+
